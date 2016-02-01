@@ -35,9 +35,6 @@ gulp.task('styles', function() {
   .pipe(gulp.dest(config.temp));
 });
 
-
-
-
 ///////
 
 //loggin a custom message within the tasks
